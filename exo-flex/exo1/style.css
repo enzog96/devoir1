@@ -1,19 +1,15 @@
 .flex-container{
     background-color: burlywood;
-    height: 750px;
+    height: 100vh;
     display: flex;
     justify-content: center ;
     align-items: center;
     gap: 10px;
 }
-
 .flex-item{
-    display: flex;
     background-color: #ff4500;
     height: 100px;
-    padding: 30px;
-    justify-content: center;
-    align-items: center;
+    padding: 30px;  
 }
 
 
