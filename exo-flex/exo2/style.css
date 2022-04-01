@@ -1,0 +1,19 @@
+.section{
+    display: flex;
+    flex-direction: row;      
+}
+
+.section div{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: orangered;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+    
+
+}
+
+
+

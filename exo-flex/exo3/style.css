@@ -1,0 +1,34 @@
+header{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    margin: 5px;
+}
+.container{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5px;    
+}
+.container article{
+    background-color: orange;
+    width: 400px;  
+}
+.container nav{
+    background-color: lightblue;
+    width: 700px;
+}
+.container aside{
+    background-color: orange;
+    width: 400px;
+}
+footer{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    margin: 5px;
+}
